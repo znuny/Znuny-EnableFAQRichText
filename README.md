@@ -13,7 +13,7 @@ This package enables richtext for FAQ even if richtext is disabled in Znuny.
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 - FAQ 7.3
 
 **Installation**
